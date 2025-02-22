@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+ <NameKey></NameKey>
+ <DescKey></DescKey>
+ <Name>Pilgrim - Alleine im Irgendwo</Name>
+ <Desc>Pilgrim streift alleine durch das Land und erkundet dabei Regionen der Erde, die er so noch nicht gesehen hatte. @cr Was mag sich wohl hier befinden? Ein Dorf? Eine Stadt? Oder doch nur Landschaft?
+ @cr In einem Waldstück sucht er nach Anzeichen von weiterer Lebensform. @cr @cr Die Karte ist eine sehr einfache Karte mit wenig Kampf und sehr viel Geschichte. @cr Sie sollte für jede Person schafbar sein.
+ </Desc>
+ <SizeX>417</SizeX>
+ <SizeY>417</SizeY>
+ <MPFlag>false</MPFlag>
+ <MPPlayerCount>1</MPPlayerCount>
+ <MPGameOptionFlagSet>3</MPGameOptionFlagSet>
+ <MiniMapTextureName>maps\user\Pilgrim - Alleine im Irgendwo\mappic</MiniMapTextureName>
+ <Key>2</Key>
+ <GUID>
+  <Data>0cf15cc9-14b4-49fc-853d-b57584189599</Data>
+ </GUID>
+</root>
